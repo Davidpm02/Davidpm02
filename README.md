@@ -11,7 +11,6 @@
 </a>
 
 <br/>
-<br/>
 
 PostgreSQL | Python3 | HTML5 | CSS3
 ## Sobre mi :sunglasses:
