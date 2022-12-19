@@ -10,6 +10,7 @@
   <img align="left" alt="Davidpm02's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<br>
 <br/>
 
 PostgreSQL | Python3 | HTML5 | CSS3
