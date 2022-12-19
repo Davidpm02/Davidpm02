@@ -37,8 +37,8 @@ Actualmente estoy estudiando Python con funciones de Backend. En mi perfil añad
 <img src="https://github-readme-stats.vercel.app/api?username=Davidpm02&&show_icons=true&theme=radical&line_height=27&v=5" alt="Davidpm02's GitHub Stats" />
 
 
-##  Contacta conmigo:speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@davpm_02-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/davpm_02)](https://twitter.com/davpm_02) [![Linkedin Badge](https://img.shields.io/badge/david-padilla-muñoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/david-padilla-muñoz-52126725a)](www.linkedin.com/in/david-padilla-muñoz-52126725a) [![Gmail Badge](https://img.shields.io/badge/-davidpamu02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidpamu02@gmail.com)](mailto:davidpamu02@gmail.com) 
+##  Contacta conmigo :speech_balloon:
+[![Twitter Badge](https://img.shields.io/badge/-@davpm_02-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/davpm_02)](https://twitter.com/davpm_02) [![Linkedin Badge](https://img.shields.io/badge/-David_Padilla_Muñoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-padilla-muñoz-52126725a)](www.linkedin.com/in/david-padilla-muñoz-52126725a) [![Gmail Badge](https://img.shields.io/badge/-davidpamu02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidpamu02@gmail.com)](mailto:davidpamu02@gmail.com) 
 
 <p align="center"> 
   Contador de visitas<br>
