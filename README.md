@@ -20,7 +20,7 @@ Actualmente estoy estudiando Python con funciones de Backend. En mi perfil añad
 
 ## Tecnologias :fire:
 - Python.
-- PostreSQL
+- PostgreSQL
 
 **Lenguajes y Herramientas:**  
 
