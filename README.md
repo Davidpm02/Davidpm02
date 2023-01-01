@@ -34,7 +34,7 @@ Actualmente estoy estudiando Python con funciones de Backend. En mi perfil añad
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidpm02&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Davidpm02&&show_icons=true&theme=radical&line_height=27&v=5" alt="Davidpm02's GitHub Stats" />
+<img src="https://github-readme-stats-beryl.vercel.app/api?username=Davidpm02&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Davidpm02's GitHub Stats" />
 
 
 ##  Contacta conmigo :speech_balloon:
