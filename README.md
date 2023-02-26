@@ -15,7 +15,9 @@
 
 PostgreSQL | Python3 | HTML5 | CSS3
 ## Sobre mi :sunglasses:
-Actualmente estoy estudiando Python con funciones de Backend. En mi perfil añado repositorios con los proyectos que voy desarrollando utilizando Python y otras tecnologias.
+I'm becoming a Machine Learning Developer!.
+
+En mi perfil añado repositorios con los proyectos que voy desarrollando utilizando Python y otras tecnologias.
 
 
 ## Tecnologias :fire:
