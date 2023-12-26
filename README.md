@@ -13,7 +13,7 @@
 <br>
 <br/>
 
-PostgreSQL | Python3 | HTML5 | CSS3
+SQL | Python | Machine Learning
 ## Sobre mi :sunglasses:
 I'm becoming a Machine Learning Developer!.
 
