@@ -33,7 +33,7 @@ En mi perfil añado repositorios con los proyectos que voy desarrollando utiliza
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 ##  Contacta conmigo :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@davpm_02-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/davpm_02)](https://twitter.com/davpm_02) [![Linkedin Badge](https://img.shields.io/badge/-David_Padilla_Muñoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-padilla-muñoz-52126725a)](www.linkedin.com/in/david-padilla-muñoz-52126725a) [![Gmail Badge](https://img.shields.io/badge/-davidpamu02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidpamu02@gmail.com)](mailto:davidpamu02@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-@davpm_02-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/davpm_02)](https://twitter.com/davpm_02) [![Linkedin Badge](https://img.shields.io/badge/-David_Padilla_Muñoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-padilla-muñoz-52126725a)](www.linkedin.com/in/david-padilla-muñoz-52126725a) [![Gmail Badge](https://img.shields.io/badge/-dpadilla_dev@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpadilla_dev@proton.me)](mailto:dpadilla_dev@proton.me) 
 
 <p align="center"> 
   Contador de visitas<br>
