@@ -13,7 +13,7 @@
 <br>
 <br/>
 
-SQL | Python | Machine Learning
+Python | Mahine Learning | Deep Learning
 ## Sobre mi :sunglasses:
 I'm becoming a Machine Learning Developer!.
 
