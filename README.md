@@ -1,4 +1,7 @@
- # <a href="www.linkedin.com/in/david-padilla-muñoz-52126725a">David Padilla Muñoz</a> :smiley:
+<div align="center">
+<h1 align="center">Hi, I'm David 👋</h1>
+</div>
+<img src="https://imgur.com/a/RGuHEz5">
 
 <a href="www.linkedin.com/in/david-padilla-muñoz-52126725a">
   <img align="left" alt="Davidpm02's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
