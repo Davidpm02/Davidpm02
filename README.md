@@ -38,13 +38,20 @@ El código de los proyectos/ejercicios también se encuenta ordenado, de modo qu
 ##  Contacta conmigo :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-David_Padilla_Muñoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-padilla-muñoz-52126725a)](www.linkedin.com/in/david-padilla-muñoz-52126725a) [![Gmail Badge](https://img.shields.io/badge/-dpadilla_dev@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpadilla_dev@proton.me)](mailto:dpadilla_dev@proton.me) 
 
-<p align="center"> 
-  Contador de visitas<br>
-  <img src="https://profile-counter.glitch.me/Davidpm02/count.svg" />
-</p>
+<br>
+<hr>
 
-
-<div align="center">
-
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+    <span style="display: inline-block;">
+        <a href="https://git.io/streak-stats" style="text-decoration: none;">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=Davidpm02&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
+        </a>
+    </span>
+    <span style="display: inline-block; margin-left: 20px;">
+        <img alt="GIF" src="./PurpleMatrix.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
+    </span>
 </div>
+
+
+---
 
