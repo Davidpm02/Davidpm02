@@ -3,40 +3,60 @@
 </div>
 <img src="https://i.imgur.com/0iGRWX7.png">
 
-<a href="www.linkedin.com/in/david-padilla-muñoz-52126725a">
-  <img align="left" alt="Davidpm02's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Davidpm02">
-  <img align="left" alt="Davidpm02's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+## About me :
+Self-taught professional.
 
-<br>
-<br/>
+Currently working as a Machine Learning Developer.
 
-Python | Mahine Learning | Deep Learning
-## Sobre mi :sunglasses:
-I'm becoming a Machine Learning Developer!.
+I undertake new projects that allow me to deepen my knowledge. I am in the process of studying the fundamentals of Computer Science and algorithm design. 
 
-En mi perfil añado repositorios con los proyectos que voy desarrollando utilizando Python y otras tecnologías.
+Additionally, I am learning Kotlin and Android Studio in my free time.
 
-Cada uno de estos repositorios está enfocado en un tipo de desarrollo y/o problema. Se especifica más información de cada uno dentro del README de descripción.
-El código de los proyectos/ejercicios también se encuenta ordenado, de modo que la navegación entre cada uno de ellos sea mas fácil e intuitiva.
+ **I am open to**:
 
+- Any collaboration work,
+- Machine learning projects(development or research)
+- Mobile projects that allow me to learn the concepts of Mobile Development
 
-## Tecnologías :fire:
-- Python.
-- Scikit Learn.
-- Tensorflow.
+## Skills:
 
-**Lenguajes y Herramientas:**  
+#### Languages:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+#### ML/DL
 
-##  Contacta conmigo :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-David_Padilla_Muñoz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-padilla-muñoz-52126725a)](www.linkedin.com/in/david-padilla-muñoz-52126725a) [![Gmail Badge](https://img.shields.io/badge/-dpadilla_dev@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpadilla_dev@proton.me)](mailto:dpadilla_dev@proton.me) 
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+#### Tools and Technologies
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+
+#### IDEs
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
+##  Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-padilla-muñoz-52126725a">
+    <img src="https://img.shields.io/badge/-David_Padilla_Muñoz-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:dpadilla_dev@proton.me">
+    <img src="https://img.shields.io/badge/-dpadilla_dev@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
+  </a>
+</p>
+
 
 <br>
 <hr>
