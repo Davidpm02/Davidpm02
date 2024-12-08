@@ -14,9 +14,9 @@ Additionally, I am learning Kotlin and Android Studio in my free time.
 
  **I am open to**:
 
-- Any collaboration work,
-- Machine learning projects(development or research)
-- Mobile projects that allow me to learn the concepts of Mobile Development
+- Any collaboration work.
+- Machine learning projects(development or research).
+- Mobile projects that allow me to learn the concepts of Mobile Development.
 
 ## Skills:
 
