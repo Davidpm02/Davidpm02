@@ -64,7 +64,7 @@ Additionally, I am learning Kotlin and Android Studio in my free time.
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
     <span style="display: inline-block;">
         <a href="https://git.io/streak-stats" style="text-decoration: none;">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=Davidpm02&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=Davidpm02&theme=darcula&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
         </a>
     </span>
     <span style="display: inline-block; margin-left: 20px;">
