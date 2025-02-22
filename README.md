@@ -46,6 +46,23 @@ Additionally, I am learning Kotlin and Android Studio in my free time.
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
+## Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">LeetCode Challenges</h3>
+<div align="center">
+<a href="https://github.com/Davidpm02/PYTHON___Retos_Programacion_LeetCode" target="_blank"><img src="https://i.imgur.com/Sdn9pdD.png" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/Davidpm02/PYTHON___Retos_Programacion_LeetCode" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Implementación en código Python de soluciones a los diferentes retos de programación disponibles en LeetCode. Se trata de un proyecto en constante actualización.</p>
+</div>
+</table>
+
 ##  Connect with me:
 
 <p align="center">
