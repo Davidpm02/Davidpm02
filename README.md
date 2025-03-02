@@ -53,7 +53,7 @@ Additionally, I am learning Kotlin and Android Studio in my free time.
 <td width="50%">
 <h3 align="center">LeetCode Challenges</h3>
 <div align="center">
-<a href="https://github.com/Davidpm02/PYTHON___Retos_Programacion_LeetCode" target="_blank"><img src="https://i.imgur.com/Sdn9pdD.png" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Davidpm02/PYTHON___Retos_Programacion_LeetCode" target="_blank"><img src="https://i.imgur.com/Sdn9pdD.png" width="400"></a>
 <p>
 <a href="https://github.com/Davidpm02/PYTHON___Retos_Programacion_LeetCode" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -61,7 +61,23 @@ Additionally, I am learning Kotlin and Android Studio in my free time.
 </p>
 <p>Implementación en código Python de soluciones a los diferentes retos de programación disponibles en LeetCode. Se trata de un proyecto en constante actualización.</p>
 </div>
+</td>
+
+<td width="50%">
+<h3 align="center">Calculadora Web (HTML, CSS, JavaScript)</h3>
+<div align="center">
+<a href="https://github.com/Davidpm02/js_basic_calculator_app" target="_blank"><img src="https://i.imgur.com/sT6Q7U1.png" width="400"></a>
+<p>
+<a href="https://github.com/Davidpm02/js_basic_calculator_app" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Implementación de una calculadora web utilizando HTML, CSS y JavaScript.</p>
+</div>
+</td>
+</tr>
 </table>
+
 
 ##  Connect with me:
 
