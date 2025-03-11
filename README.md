@@ -80,6 +80,23 @@ Additionally, I am learning Kotlin and Android Studio in my free time.
 </div>
 </td>
 </tr>
+
+<tr>
+<td colspan="2" width="100%" valign="top">
+<h3 align="center">ToDo List (HTML, CSS, JavaScript)</h3>
+<div align="center">
+<a href="https://github.com/Davidpm02/js_basic_ToDo_app" target="_blank">
+<img src="https://i.imgur.com/rDMlsKF.png" width="400">
+</a>
+<p>
+<a href="https://github.com/Davidpm02/js_basic_ToDo_app" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Implementación de una lista de tareas (ToDo List) utilizando HTML, CSS y JavaScript. Se trata de un proyecto inicial de introducción a las tecnologías Frontend.</p>
+</div>
+</td>
+</tr>
 </table>
 
 
