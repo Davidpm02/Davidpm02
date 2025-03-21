@@ -50,54 +50,70 @@ Additionally, I am learning Kotlin and Android Studio in my free time.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">LeetCode Challenges</h3>
-<div align="center">
-<a href="https://github.com/Davidpm02/PYTHON___Retos_Programacion_LeetCode" target="_blank">
-<img src="https://i.imgur.com/Sdn9pdD.png" width="400">
-</a>
-<p>
-<a href="https://github.com/Davidpm02/PYTHON___Retos_Programacion_LeetCode" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Implementación en código Python de soluciones a los diferentes retos de programación disponibles en LeetCode. Se trata de un proyecto en constante actualización.</p>
-</div>
-</td>
-
-<td width="50%" valign="top">
-<h3 align="center">Calculadora Web (HTML, CSS, JavaScript)</h3>
-<div align="center">
-<a href="https://github.com/Davidpm02/js_basic_calculator_app" target="_blank">
-<img src="https://i.imgur.com/sT6Q7U1.png" width="400">
-</a>
-<p>
-<a href="https://github.com/Davidpm02/js_basic_calculator_app" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Implementación de una calculadora web utilizando HTML, CSS y JavaScript. Se trata de un proyecto inicial de introducción a las tecnologías Frontend.</p>
-</div>
-</td>
+  <td width="50%" valign="top">
+    <h3 align="center">LeetCode Challenges</h3>
+    <div align="center">
+      <a href="https://github.com/Davidpm02/PYTHON___Retos_Programacion_LeetCode" target="_blank">
+        <img src="https://i.imgur.com/Sdn9pdD.png" width="400" height="250">
+      </a>
+      <p>
+        <a href="https://github.com/Davidpm02/PYTHON___Retos_Programacion_LeetCode" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Implementación en código Python de soluciones a los diferentes retos de programación disponibles en LeetCode. Se trata de un proyecto en constante actualización.</p>
+    </div>
+  </td>
+  
+  <td width="50%" valign="top">
+    <h3 align="center">Calculadora Web (HTML, CSS, JavaScript)</h3>
+    <div align="center">
+      <a href="https://github.com/Davidpm02/js_basic_calculator_app" target="_blank">
+        <img src="https://i.imgur.com/sT6Q7U1.png" width="400" height="250">
+      </a>
+      <p>
+        <a href="https://github.com/Davidpm02/js_basic_calculator_app" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Implementación de una calculadora web utilizando HTML, CSS y JavaScript. Se trata de un proyecto inicial de introducción a las tecnologías Frontend.</p>
+    </div>
+  </td>
 </tr>
 
 <tr>
-<td colspan="2" width="100%" valign="top">
-<h3 align="center">ToDo List (HTML, CSS, JavaScript)</h3>
-<div align="center">
-<a href="https://github.com/Davidpm02/js_basic_ToDo_app" target="_blank">
-<img src="https://i.imgur.com/rDMlsKF.png" width="400">
-</a>
-<p>
-<a href="https://github.com/Davidpm02/js_basic_ToDo_app" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Implementación de una lista de tareas (ToDo List) utilizando HTML, CSS y JavaScript. Se trata de un proyecto inicial de introducción a las tecnologías Frontend.</p>
-</div>
-</td>
+  <td width="50%" valign="top">
+    <h3 align="center">ToDo List (HTML, CSS, JavaScript)</h3>
+    <div align="center">
+      <a href="https://github.com/Davidpm02/js_basic_ToDo_app" target="_blank">
+        <img src="https://i.imgur.com/rDMlsKF.png" width="400" height="250">
+      </a>
+      <p>
+        <a href="https://github.com/Davidpm02/js_basic_ToDo_app" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Implementación de una lista de tareas (ToDo List) utilizando HTML, CSS y JavaScript. Se trata de un proyecto inicial de introducción a las tecnologías Frontend.</p>
+    </div>
+  </td>
+  
+  <td width="50%" valign="top">
+    <h3 align="center">Voice2TextJS</h3>
+    <div align="center">
+      <a href="https://github.com/Davidpm02/Voice2TextJS_Electron" target="_blank">
+        <img src="https://i.imgur.com/DgJZx6h.png" width="400" height="250">
+      </a>
+      <p>
+        <a href="https://github.com/Davidpm02/Voice2TextJS_Electron" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Aplicación de escritorio desarrollada con Electron que permite transcribir audio a texto utilizando Whisper.cpp.</p>
+    </div>
+  </td>
 </tr>
 </table>
+
 
 
 
