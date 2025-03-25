@@ -112,7 +112,24 @@ Additionally, I am learning Kotlin and Android Studio in my free time.
     </div>
   </td>
 </tr>
+<tr>
+  <td colspan="2" valign="top">
+    <h3 align="center">Image Gallery App (HTML, CSS, JavaScript)</h3>
+    <div align="center">
+      <a href="https://github.com/Davidpm02/js_basic_image_gallery_app" target="_blank">
+        <img src="https://i.imgur.com/z2OY4w5.png" width="400" height="300">
+      </a>
+      <p>
+        <a href="https://github.com/Davidpm02/js_basic_image_gallery_app" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Implementación de una galería de imágenes (Image Gallery) utilizando HTML, CSS y JavaScript. Se trata de un proyecto inicial de introducción a las tecnologías Frontend.</p>
+    </div>
+  </td>
+</tr>
 </table>
+
 
 
 
