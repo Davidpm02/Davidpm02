@@ -10,13 +10,13 @@ Currently working as a Machine Learning Developer.
 
 I undertake new projects that allow me to deepen my knowledge. I am in the process of studying the fundamentals of Computer Science and algorithm design. 
 
-Additionally, I am learning Kotlin and Android Studio in my free time.
+Additionally, I am learning JavaScript and Web Development fundamentals.
 
  **I am open to**:
 
 - Any collaboration work.
 - Machine learning projects(development or research).
-- Mobile projects that allow me to learn the concepts of Mobile Development.
+- Web projects that allow me to learn the concepts of Web Development.
 
 ## Skills:
 
