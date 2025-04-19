@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm David 👋</h1>
 </div>
-<img src="https://i.imgur.com/FfrM1Jh.png">
+<img src="https://i.imgur.com/fdf2Fn6.png">
 
 ## About me :
 Self-taught professional.
