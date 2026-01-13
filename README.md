@@ -1,22 +1,27 @@
 <div align="center">
 <h1 align="center">Hi, I'm David 👋</h1>
 </div>
-<img src="https://i.imgur.com/fdf2Fn6.png">
+<img src="https://i.imgur.com/WzQvaN0.png">
 
 ## About me :
-Self-taught professional.
+Software Developer with a strong foundation in Python and a growing focus on **Backend and Full Stack development**.
 
-Currently working as a Machine Learning Developer.
+I’m currently transitioning my professional profile towards building **robust, maintainable, and well-designed web applications**, with special interest in backend systems, APIs, and software architecture. I care deeply about clean code, testing, and understanding how things work under the hood.
 
-I undertake new projects that allow me to deepen my knowledge. I am in the process of studying the fundamentals of Computer Science and algorithm design. 
+My background in **Machine Learning and MLOps** allows me to approach problems with a data-driven mindset and integrate ML solutions when they add real value — always as a complement to solid engineering.
 
-Additionally, I am learning JavaScript and Web Development fundamentals.
+I’m continuously strengthening my fundamentals in **Computer Science**, system design, and modern web technologies, aiming to grow as a well-rounded software engineer.
 
- **I am open to**:
+**Currently interested in**:
+- Backend development (Python, APIs, databases, architecture)
+- Full Stack web applications
+- Software engineering best practices
+- ML integrations within production systems
 
-- Any collaboration work.
-- Machine learning projects(development or research).
-- Web projects that allow me to learn the concepts of Web Development.
+**I am open to**:
+- Backend or Full Stack collaboration projects
+- Building APIs and web platforms
+- Projects where software engineering and ML intersect
 
 ## Skills:
 
