@@ -1,27 +1,29 @@
 <div align="center">
 <h1 align="center">Hi, I'm David 👋</h1>
 </div>
-<img src="https://i.imgur.com/WzQvaN0.png">
+<img src="https://i.imgur.com/kMAjlBM.png">
 
 ## About me :
-Software Developer with a strong foundation in Python and a growing focus on **Backend and Full Stack development**.
+Backend Engineer specialized in Python, with hands-on experience building APIs and production systems for B2B environments.
 
-I’m currently transitioning my professional profile towards building **robust, maintainable, and well-designed web applications**, with special interest in backend systems, APIs, and software architecture. I care deeply about clean code, testing, and understanding how things work under the hood.
+Over the past 2+ years, I have worked on developing backend services to expose machine learning models and data pipelines, contributing across the full lifecycle — from data processing to deployment in cloud environments.
 
-My background in **Machine Learning and MLOps** allows me to approach problems with a data-driven mindset and integrate ML solutions when they add real value — always as a complement to solid engineering.
+My core focus is backend engineering: designing robust APIs, writing maintainable code, and building systems that scale. I have practical experience with FastAPI/Flask, relational databases, and containerized deployments using Docker.
 
-I’m continuously strengthening my fundamentals in **Computer Science**, system design, and modern web technologies, aiming to grow as a well-rounded software engineer.
+I bring a strong background in Machine Learning and MLOps, which allows me to integrate ML capabilities into real-world systems when they add value — always grounded in solid engineering principles.
 
-**Currently interested in**:
-- Backend development (Python, APIs, databases, architecture)
-- Full Stack web applications
-- Software engineering best practices
-- ML integrations within production systems
+Currently, I am focused on strengthening my backend engineering skills and evolving towards MLOps and Data Engineering, with a growing interest in system design, distributed systems, and data-intensive applications.
 
-**I am open to**:
-- Backend or Full Stack collaboration projects
-- Building APIs and web platforms
-- Projects where software engineering and ML intersect
+**Current focus**:
+- Backend development with Python (APIs, architecture, services)
+- Database design and SQL (PostgreSQL)
+- Scalable systems and clean architecture
+- ML integration in production environments
+
+**Open to**:
+- Backend engineering roles (Python)
+- API development and system design projects
+- Collaborations involving backend + data/ML systems
 
 ## Skills:
 
