@@ -61,7 +61,7 @@ Currently, I am focused on strengthening my backend engineering skills and evolv
     <img src="https://img.shields.io/badge/-David_Padilla_Muñoz-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="mailto:davidpersonal.prod@gmail.com">
-    <img src="https://img.shields.io/badge/-dpadilla_dev@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
+    <img src="https://img.shields.io/badge/-davidpersonal.prod@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
   </a>
 </p>
 
